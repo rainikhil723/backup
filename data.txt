@@ -1,0 +1,1 @@
+This is data of the file 1 (this is added by using append method)
